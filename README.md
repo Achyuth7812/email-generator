@@ -20,7 +20,4 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# email-generator
->>>>>>> c33cbf5181135f40fbcc5a2616accc7a8b7000ab
+
